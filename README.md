@@ -60,14 +60,3 @@ The Excel dashboard can be shared with stakeholders in several ways:
 
 ## Conclusion
 The **Coffee Shop Data Analysis Using Excel** project provides a streamlined approach to understanding key metrics through interactive Excel dashboards. It equips coffee shop owners and managers with the necessary insights to improve business decisions related to menu items, customer behavior, and peak times.
-
-## Getting Started
-
-1. **Download the Excel file:**
-   - The Excel file `coffee_shop_dashboard.xlsx` is located in the `dashboard/` folder.
-
-2. **Open in Excel:**
-   - Use Microsoft Excel to open the file and interact with the dashboard.
-
-3. **Explore the Dashboard:**
-   - Use the pivot tables, slicers, and visualizations to explore the data based on different time periods and categories.
